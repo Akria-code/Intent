@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="buttonStart">startSecondActivity</string>
+    <string name="imageView">image</string>
+    <string name="textView">this is secondActivity</string>
+    <string name="textDescription">SecondActivity</string>
+    <string name="button3">Button 3</string>
+</resources>
